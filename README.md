@@ -21,14 +21,18 @@
 
 #### 🔹 Telco Customer Churn Analysis – Power BI
 - Conducted deep-dive analysis on customer churn behavior using a Kaggle dataset.
-- Built a professional, multi-page Power BI dashboard with drill-through functionality, KPI page, and segment-wise insights.
+- Designed and developed a 5-page interactive Power BI dashboard to analyze customer churn patterns in a telecom dataset.
+- Performed full ETL processes using Power Query, applied DAX functions for KPI tracking, and implemented drill-through reports, slicers, and layered visuals to support strategic insights and data storytelling.
 
 #### 🔹 Netflix Data Analysis – SQL
-- Performed extensive analysis on Netflix titles to uncover trends in content type, country distribution, and release timelines.
-- Wrote optimized SQL queries to solve business problems and visualize insights.
+- This project focused on analyzing Netflix’s Movies and TV Shows dataset using SQL to uncover meaningful content insights.
+- The analysis explored content types, genres, ratings, release years, and country-wise distribution across the platform.
+- Raw data was cleaned and transformed to handle missing values, inconsistent formats, and multi-valued fields like genres and cast.
+- A series of structured SQL queries were used to answer business-relevant questions and highlight content trends. The project demonstrated the practical application of SQL in solving real-world data problems and delivering clear analytical outcomes.
+- Overall, it reflects strong data handling, query design, and insight generation skills using SQL alone.
 
 #### 🔹 Smart Network Intrusion Notifier – Python
-- Lightweight IDS system using Scapy for packet analysis and Telegram API for real-time threat alerts.
+- Lightweight IDS system based on EGT (Evolutionary Game Theory) using Scapy for packet analysis and Telegram API for real-time threat alerts.
 
 
 ---
@@ -46,11 +50,10 @@
 ---
 
 ### 🌱 Currently Working On
-#### 🔹 Port Management System – Java
-- Developed a desktop-based port management solution with functionalities like cargo tracking and berth allocation.
-- Enhancing Power BI skills through real-world datasets
-- Completing AWS Solutions Architect and Machine Learning (Stanford) courses
-- Uploading and documenting projects on GitHub for portfolio visibility
+#### 🔹 Port Management System – SQL | Python
+- A terminal-based Port Management System built using Python and MySQL.
+- This project simulates operations at a port such as managing ship arrivals, departures, berth assignments, and maintaining a live ship register.
+- It demonstrates backend-database integration and record management using SQL.
 
 ---
 
