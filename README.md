@@ -39,9 +39,10 @@
 
 ### 📜 Certifications
 
-- ✅ **Microsoft Certified: Power BI Data Analyst Associate**
-- ✅ **IBM Data Analyst Professional Certificate** 
 - ✅ **Google Data Analytics Professional Certificate** 
+- ✅ **Analysis and Visualization with Power BI - Microsoft** 
+- ✅ **Starting with Git and Github - IBM**
+- ✅ **BI Dashboards with IBM Cognos Analytics and Google Looker - IBM**
 - ✅ **Fractal Analytics – Data Analysis Using SQL**
 - ✅ **HackerRank SQL Certificates – Basic, Intermediate, Advanced**
 - ✅ **HTML, CSS, and JavaScript for Web Developers – Johns Hopkins University**
