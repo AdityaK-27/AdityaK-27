@@ -13,7 +13,7 @@
 - **Data Tools**: Power BI, Excel, Pandas, NumPy, Tableau
 - **Databases**: MySQL, PostgreSQL
 - **Web**: HTML, CSS, JavaScript
-- **Other Tools**: Git, GitHub, Jupyter, Keil uVision, VS Code
+- **Other Tools**: Git, GitHub, Jupyter, Keil uVision, VS Code, Cisco Packet Tracer
 
 ---
 
