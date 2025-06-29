@@ -17,6 +17,25 @@
 
 ---
 
+### 💼 Experience
+
+#### 🔹 **Data Analyst Intern – Reliance Industries Limited**
+- Worked with operational data to generate business insights.
+- Contributed to internal analytics dashboards and reporting systems.
+- Practiced data wrangling, visualization, and summary report generation for senior stakeholders.
+
+#### 🔹 **AICTE – IBM SkillBuild AI Internship (via Edunet Foundation)**
+- Underwent structured training in AI foundations, data science, and applied projects.
+- Participated in hands-on modules focused on solving real-world business problems using data.
+- Gained exposure to IBM tools and collaborative data workflows.
+
+#### 🔹 **Data Analyst Intern – Elevate Labs**
+- Analyzed performance data for user behavior and product insights.
+- Automated reports using Python and SQL to enhance decision-making workflows.
+- Delivered visual insights and dashboards to improve product adoption and user engagement.
+
+---
+
 ### 📈 Projects
 
 #### 🔹 Telco Customer Churn Analysis – Power BI
